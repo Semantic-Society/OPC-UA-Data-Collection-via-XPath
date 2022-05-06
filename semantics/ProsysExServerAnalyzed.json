@@ -1,0 +1,191 @@
+[
+  {
+    "nodeId": "ns=5;s=DoubleAnalogItem",
+    "Definition": "Test definition of type Double",
+    "range": [
+      "-50.0",
+      "50.0"
+    ],
+    "unitId": "-1"
+  },
+  {
+    "nodeId": "ns=5;s=FloatAnalogItem",
+    "Definition": "Test definition of type Float",
+    "range": [
+      "-50.0",
+      "50.0"
+    ],
+    "unitId": "-1"
+  },
+  {
+    "nodeId": "ns=5;s=Int32AnalogItem",
+    "Definition": "Test definition of type Int32",
+    "range": [
+      "-50.0",
+      "50.0"
+    ],
+    "unitId": "-1"
+  },
+  {
+    "nodeId": "ns=5;s=SByteAnalogItemArray",
+    "Definition": "Test definition of type SByte as array",
+    "range": [
+      "-50.0",
+      "50.0"
+    ],
+    "unitId": "-1"
+  },
+  {
+    "nodeId": "ns=5;s=Int64AnalogItemArray",
+    "Definition": "Test definition of type Int64 as array",
+    "range": [
+      "-50.0",
+      "50.0"
+    ],
+    "unitId": "-1"
+  },
+  {
+    "nodeId": "ns=5;s=UInt32AnalogItemArray",
+    "Definition": "Test definition of type UInt32 as array",
+    "range": [
+      "0.0",
+      "100.0"
+    ],
+    "unitId": "-1"
+  },
+  {
+    "nodeId": "ns=5;s=Int64AnalogItem",
+    "Definition": "Test definition of type Int64",
+    "range": [
+      "-50.0",
+      "50.0"
+    ],
+    "unitId": "-1"
+  },
+  {
+    "nodeId": "ns=5;s=SByteAnalogItem",
+    "Definition": "Test definition of type SByte",
+    "range": [
+      "-50.0",
+      "50.0"
+    ],
+    "unitId": "-1"
+  },
+  {
+    "nodeId": "ns=5;s=UInt16AnalogItemArray",
+    "Definition": "Test definition of type UInt16 as array",
+    "range": [
+      "0.0",
+      "100.0"
+    ],
+    "unitId": "-1"
+  },
+  {
+    "nodeId": "ns=5;s=DoubleAnalogItemArray",
+    "Definition": "Test definition of type Double as array",
+    "range": [
+      "-50.0",
+      "50.0"
+    ],
+    "unitId": "-1"
+  },
+  {
+    "nodeId": "ns=5;s=UInt64AnalogItemArray",
+    "Definition": "Test definition of type UInt64 as array",
+    "range": [
+      "0.0",
+      "100.0"
+    ],
+    "unitId": "-1"
+  },
+  {
+    "nodeId": "ns=5;s=Int16AnalogItem",
+    "Definition": "Test definition of type Int16",
+    "range": [
+      "-50.0",
+      "50.0"
+    ],
+    "unitId": "-1"
+  },
+  {
+    "nodeId": "ns=5;s=Int16AnalogItemArray",
+    "Definition": "Test definition of type Int16 as array",
+    "range": [
+      "-50.0",
+      "50.0"
+    ],
+    "unitId": "-1"
+  },
+  {
+    "nodeId": "ns=5;s=UInt64AnalogItem",
+    "Definition": "Test definition of type UInt64",
+    "range": [
+      "0.0",
+      "100.0"
+    ],
+    "unitId": "-1"
+  },
+  {
+    "nodeId": "ns=5;s=UInt16AnalogItem",
+    "Definition": "Test definition of type UInt16",
+    "range": [
+      "0.0",
+      "100.0"
+    ],
+    "unitId": "-1"
+  },
+  {
+    "nodeId": "ns=5;s=Int32AnalogItemArray",
+    "Definition": "Test definition of type Int32 as array",
+    "range": [
+      "-50.0",
+      "50.0"
+    ],
+    "unitId": "-1"
+  },
+  {
+    "nodeId": "ns=5;s=ByteAnalogItem",
+    "Definition": "Test definition of type Byte",
+    "range": [
+      "0.0",
+      "100.0"
+    ],
+    "unitId": "-1"
+  },
+  {
+    "nodeId": "ns=5;s=Sample Instrument Int32AnalogItem",
+    "Definition": "Test definition of type Sample Instrument Int32",
+    "range": [
+      "20.0",
+      "40.0"
+    ],
+    "unitId": "-1"
+  },
+  {
+    "nodeId": "ns=5;s=ByteAnalogItemArray",
+    "Definition": "Test definition of type Byte as array",
+    "range": [
+      "0.0",
+      "100.0"
+    ],
+    "unitId": "-1"
+  },
+  {
+    "nodeId": "ns=5;s=UInt32AnalogItem",
+    "Definition": "Test definition of type UInt32",
+    "range": [
+      "0.0",
+      "100.0"
+    ],
+    "unitId": "-1"
+  },
+  {
+    "nodeId": "ns=5;s=FloatAnalogItemArray",
+    "Definition": "Test definition of type Float as array",
+    "range": [
+      "-50.0",
+      "50.0"
+    ],
+    "unitId": "-1"
+  }
+]
